@@ -61,5 +61,5 @@ git clone https://github.com/savasink/DataCleaningProject
 
 ## Авторы
 
-* [Вячеслав]("@Sava_Sink")
+* [Вячеслав](https://t.me/@Sava_Sink)
 
